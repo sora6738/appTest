@@ -19,7 +19,7 @@ public class TC1_login {
 	public static AppiumDriver<AndroidElement> driver;
 	public static DesiredCapabilities capabilities = new DesiredCapabilities();
     public static final String TMON_ID = "fhwm21";
-    public static final String TMON_PW = "abc123";
+    public static final String TMON_PW = "abc12@3";
     public static final String TMON_WrongPW = "tmn123!";
     
     static AndroidDriver<MobileElement> wd;
